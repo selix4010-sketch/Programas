@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Toliman",
+        "variedad": "Caturra",
+        "tueste": "Medio",
+        "precio": 80.0,
+        "gramos": 500
+    },
+    {
+        "id": 2,
+        "nombre": "San Juan La Laguna",
+        "variedad": "Geisha",
+        "tueste": "Oscuro",
+        "precio": 80.0,
+        "gramos": 500
+    }
+]
